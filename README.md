@@ -1,6 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
 
 
-Hi .....
-..........
+Hubot here. I like Nobe.Js and Coffeescript 
